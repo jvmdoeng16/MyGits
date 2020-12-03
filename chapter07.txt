@@ -1,0 +1,6 @@
+GitHub is used to store our local git on the web. to get startedm we follow these three steps:
+	1. git remote add origin https://github.com/jvmdoeng16/MyGits
+	2. git branch -M main
+	3. git push -u origin main
+As we can upload our repository to GitHub, we can also download repositories to our local machine:
+	1. git clone https://github.com/SimpleMobileTools/Simple-Calendar.git
