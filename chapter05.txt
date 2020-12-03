@@ -1,0 +1,7 @@
+YOU ARE DUMB!
+THE ROLLBACK IS ONLY POSSIBLE IF YOU ADD THE FILE TO GIT BEFORE CHANGE IT!!!
+
+It is possible to print the differences between two versions of a file using the command:
+	1. git diff file_name.ext
+If we mess up some of our files, git lets us roll back to a previous version this way
+	2. git checkout file_name.ext
