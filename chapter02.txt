@@ -1,0 +1,4 @@
+Secondly, we need to initialize the git repository using the following command:
+	1. git init
+Then, we are able to actually add the files to version control using
+	2. git add

@@ -1,0 +1,4 @@
+After, we can check which files are waiting for commit by using the command
+	1. git status
+Then, of course, we are finally able to commit them using the so called
+	2. git commit -m "descriptive message"
