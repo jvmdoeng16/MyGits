@@ -1,3 +1,4 @@
 Removing files from staging area is possible via
 	1. git rm --chached -r file_name.ext (or . to remove all files)
 It is also possible to keep some files only in the local repository thanks to .gitignore
+However, we cannot add ignored files to git. So, I think it is not possible to keep track of its versions.
