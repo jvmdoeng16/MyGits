@@ -1,0 +1,3 @@
+First, we need to set our user credentials within git using the following commands:
+	1. git config --global user.name "Your Name"
+	2. git config --global user.email "valid email"
