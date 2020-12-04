@@ -5,3 +5,4 @@ It is possible to print the differences between two versions of a file using the
 	1. git diff file_name.ext
 If we mess up some of our files, git lets us roll back to a previous version this way
 	2. git checkout file_name.ext
+This file was modified in the other branch.

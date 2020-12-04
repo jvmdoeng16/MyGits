@@ -2,4 +2,10 @@ Git gives us the possibility to duplicate the master branch and start a new work
 This is called branching
 	1. git branch # shows the branches and the actived one
 	2. git branch "branch_name" # creates a branch
+	3. git checkout "branch_name" # changes the branch
+If we want to join two different branches
+	4. git merge "branch_name"
+It is important to say that the "branch_name" files versions will override the current activated branch, i.e,
+if we want to merge the other branch with the master branch, we need to activate the master, and, then use
+the command merge.
 	
