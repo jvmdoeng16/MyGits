@@ -1,0 +1,5 @@
+Git gives us the possibility to duplicate the master branch and start a new work from the current master's version.
+This is called branching
+	1. git branch # shows the branches and the actived one
+	2. git branch "branch_name" # creates a branch
+	
